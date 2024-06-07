@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Durgasriniharika!</h1>
+<center><h1>👋<i>Hi, I’m Durgasriniharika!</i></h1></center>
 
 👀 I have a deep passion for coding and web development, always eager to explore new and cutting-edge technologies.
 
@@ -10,7 +10,7 @@
 
 😄 Pronouns: she/her
 
-⚡ Fun fact: I can code while enjoying pleasant music at the same time!
+⚡ Fun fact: I can code while enjoying pleasant music—it's my ideal combination!😊
 
 <!---
 Durgasriniharika/Durgasriniharika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
