@@ -15,8 +15,7 @@ I've gained moderate expertise in System Administration through Linux and am cur
 ⚡ Fun fact: I can code while enjoying pleasant music—it's my ideal combination!😊
 
 
-<h3>MY CODING PROFILES</h3>
-<img src="C:\Users\NIHARIKA\OneDrive\Desktop\desktop\niharika\niharika\download.png">
+
 <!---
 Durgasriniharika/Durgasriniharika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
