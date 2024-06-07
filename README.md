@@ -1,4 +1,4 @@
-👋 Hi, I’m @Durgasriniharika!
+<h1>👋 Hi, I’m Durgasriniharika!</h1>
 
 👀 I have a deep passion for coding and web development, always eager to explore new and cutting-edge technologies.
 
@@ -6,7 +6,7 @@
 
 🎯 I’m aiming to secure a position at a highly reputed company where I can innovate and grow.
 
-📫 Reach me through my portfolio here.
+📫 Reach me through my portfolio here 
 
 😄 Pronouns: she/her
 
