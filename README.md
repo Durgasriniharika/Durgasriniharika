@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **Frontend web development and AWS development.**
 
-- 📫 How to reach me **niharikaabbireddy@gmail.com**
+- 📫 Reach me through **niharikaabbireddy@gmail.com**
 
 - 📄 Check out my resume to learn more about my experience and skills! [https://drive.google.com/file/d/14qyDEQSNXdz4kZ-ZhxvMBKFHYJlVSwrJ/view?usp=sharing](https://drive.google.com/file/d/14qyDEQSNXdz4kZ-ZhxvMBKFHYJlVSwrJ/view?usp=sharing)
 
