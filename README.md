@@ -1,6 +1,6 @@
 
 <h1 align="center"><i>Hi 👋, I'm Durga Sri Niharika</i></h1>
-<h3  align="center" style="font-family: Arial, sans-serif;">A passionate Web developer</h3>
+<h3  align="center" style="font-family: Arial, sans-serif;">A passionate Coder & Web developer</h3>
 
 
  
@@ -15,7 +15,9 @@
 - 🌱 I’m currently diving **into backend web development and AWS development course.**
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif">
 
-- **I've gained moderate expertise in System Administration through Linux.**
+- **I've gained moderate expertise in System Administration through Linux 🐧.**
+  
+- **Proficient in Programming Languages->C++,Java** 
 
 - 🤝 I’m looking for help with **contributing to open source projects, improving my coding skills,**
   
@@ -29,7 +31,7 @@
 
 - 📄 Check out my resume to learn more about my experience and skills! [https://drive.google.com/file/d/14qyDEQSNXdz4kZ-ZhxvMBKFHYJlVSwrJ/view?usp=sharing](https://drive.google.com/file/d/14qyDEQSNXdz4kZ-ZhxvMBKFHYJlVSwrJ/view?usp=sharing)
 
-- ⚡ Fun fact **I can code while enjoying pleasant music—it's my ideal combination!😊**
+- ⚡ Fun fact **I love to code while enjoying pleasant music—it's my ideal combination!😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
