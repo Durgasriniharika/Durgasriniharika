@@ -19,9 +19,8 @@
   
 - **Proficient in Programming Languages->C++,Java** 
 
-- 🤝 I’m looking for help with **contributing to open source projects, improving my coding skills,**
-  
-     **and collaborating on innovative software solutions.**
+- 🤝 I’m looking for help with **contributing to open source projects, improving my coding skills,
+  and collaborating on innovative software solutions.**
 
 - 👨‍💻 All of my projects are available at [https://durgasriniharika.github.io/Portfolio/](https://durgasriniharika.github.io/Portfolio/)
 
