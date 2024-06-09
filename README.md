@@ -8,7 +8,7 @@ I've gained moderate expertise in System Administration through Linux and am cur
 
 🎯 I’m aiming to secure a position at a highly reputed company where I can innovate and grow.
 
-📫 Reach me through my portfolio here 
+📫 Reach me through my portfolio here https://durgasriniharika.github.io/Portfolio/
 
 😄 Pronouns: she/her
 
