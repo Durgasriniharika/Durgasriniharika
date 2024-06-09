@@ -2,14 +2,18 @@
 <h1 align="center"><i>Hi 👋, I'm Durga Sri Niharika</i></h1>
 <h3  align="center" style="font-family: Arial, sans-serif;">A passionate Web developer</h3>
 
-<img align="right" alt="Coding" width="230" src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif">
+
+ 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgasriniharika&label=Profile%20views&color=0e75b6&style=flat" alt="durgasriniharika" /> </p>
+
 
 
 - 👀 I have a deep passion for coding and web development, always eager to explore new and cutting-edge technologies.
 
 - 🌱 I’m currently diving **into backend web development and AWS development course.**
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif">
 
 - **I've gained moderate expertise in System Administration through Linux.**
 
