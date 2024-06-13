@@ -19,7 +19,7 @@
   
 - **Proficient in Programming Languages->C++,Java** 
 
--🤝 I'm looking to **contribute to open source projects, enhance my coding skills, and collaborate on innovative software solutions. My goal is to become a skilled software developer at a top company.**
+- 🤝 I’m looking to **contribute to open source projects, enhance my coding skills, and collaborate on innovative software solutions. My goal is to become a skilled software engineer at a top company.**
 
 - 👨‍💻 All of my projects are available at [https://durgasriniharika.github.io/Portfolio/](https://durgasriniharika.github.io/Portfolio/)
 
