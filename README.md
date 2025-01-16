@@ -27,8 +27,8 @@
 
 - 📫 Reach me through **niharikaabbireddy@gmail.com**
 
-- 📄 Check out my resume to learn more about my experience and skills! [https://drive.google.com/file/d/14qyDEQSNXdz4kZ-ZhxvMBKFHYJlVSwrJ/view?usp=sharing] 
-     (https://drive.google.com/file/d/1hPlg8jjBWpCotUTzOfZ3AFUXC5tLVfzC/view?usp=sharing)
+- 📄 Check out my resume to learn more about my experience and skills! (https://drive.google.com/file/d/1hPlg8jjBWpCotUTzOfZ3AFUXC5tLVfzC/view?usp=sharing)
+     
 
 - ⚡ Fun fact **I love to code while enjoying pleasant music—it's my ideal combination!😊**
 
